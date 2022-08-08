@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - objectex
+  - Fire
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Level
+  - Enemy
+  - Usable
+  - Interactable
+  - IgnorePlayer
+  - Player
+  - Cameras
+  - LitSprites
+  - Destructable
+  - EnemyWeapon
+  - BossWeakPoint
+  - Bullet
+  - object
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - PlayerDrop
+  - Platform
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: B4
+    uniqueID: 954394097
+    locked: 0
+  - name: B3
+    uniqueID: 4006885755
+    locked: 0
+  - name: B2
+    uniqueID: 299610999
+    locked: 0
+  - name: B1
+    uniqueID: 2201371853
+    locked: 0
+  - name: ground
+    uniqueID: 287344827
+    locked: 0
+  - name: Water
+    uniqueID: 2116099231
+    locked: 0
+  - name: Level
+    uniqueID: 2344118779
+    locked: 0
+  - name: Front
+    uniqueID: 3405993979
+    locked: 0
+  - name: obj1
+    uniqueID: 3957037721
+    locked: 0
+  - name: enemies
+    uniqueID: 913907973
+    locked: 0
+  - name: player
+    uniqueID: 1432004781
+    locked: 0
+  - name: ui
+    uniqueID: 4099245981
+    locked: 0
+  - name: intui
+    uniqueID: 197005283
+    locked: 0
